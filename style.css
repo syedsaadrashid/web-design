@@ -1,0 +1,20 @@
+.offers { background-color:yellow; color:black;}
+.ourteam { background-color:darkcyan; color:black; }
+.expert { background-color: aqua; color:black;}
+.footerarea { background-color:chartreuse; border-top: 30px solid red; color:black; }
+@media (min-width:320px)
+{
+	.offers { -webkit-columns:1; background:yellow;}
+}
+@media (min-width:540px)
+{
+	.offers { -webkit-columns:1; background:yellow; }
+}
+@media (min-width:750px)
+{
+	.offers { -webkit-columns:1; background:yellow; }
+}
+@media (min-width:1080px)
+{
+	.offers { -webkit-columns:1; background:yellow;}
+}

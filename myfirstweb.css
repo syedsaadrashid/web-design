@@ -1,0 +1,8 @@
+.offers { background-color:lawngreen; color:black; }
+.ourteam { background-color:aqua; color:black; }
+.expert {background-color:orange; color:black; }
+.footerarea { background-color:gold; border-top: 20px solid orange; color:black;}
+@media (min-width:320px)
+{
+	.offers { -webkit-columns:1; background:lawngreen;}
+}
